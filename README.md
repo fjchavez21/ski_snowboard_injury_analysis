@@ -56,11 +56,17 @@ Patients presenting to U.S. emergency departments with injuries related to skiin
 The dataset required several preprocessing steps prior to modeling:
 
 • Filtering records for skiing and snowboarding product codes
+
 • Cleaning categorical variables and resolving coding inconsistencies
+
 • Handling missing values
+
 • Creating age group features
+
 • Encoding categorical variables using one-hot encoding
+
 • Splitting the dataset into training and testing subsets
+
 
 A preprocessing pipeline was implemented using **Scikit-Learn’s ColumnTransformer** to ensure consistent feature processing across models.
 
