@@ -104,9 +104,14 @@ The Random Forest model demonstrated improved predictive performance relative to
 
 ## Example Model Outputs
 
-# Test
+### ROC Curve
+![ROC Curve](ski-snowboard-injury-analysis/figures/roc_curve.png)
 
-![ROC Curve](figures/roc_curve.png)
+### Random Forest Confusion Matrix
+![Random Forest Confusion Matrix](ski-snowboard-injury-analysis/figures/confusion_matrix_rf.png)
+
+### Feature Importance
+![Feature Importance](ski-snowboard-injury-analysis/figures/feature_importance.png)
 
 Feature importance analysis highlights which injury characteristics most strongly contributed to classification performance.
 
