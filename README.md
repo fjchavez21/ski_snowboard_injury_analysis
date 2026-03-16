@@ -104,14 +104,9 @@ The Random Forest model demonstrated improved predictive performance relative to
 
 ## Example Model Outputs
 
-### ROC Curve
+# Test
+
 ![ROC Curve](figures/roc_curve.png)
-
-### Random Forest Confusion Matrix
-![Random Forest Confusion Matrix](figures/confusion_matrix_rf.png)
-
-### Feature Importance
-![Feature Importance](figures/feature_importance.png)
 
 Feature importance analysis highlights which injury characteristics most strongly contributed to classification performance.
 
