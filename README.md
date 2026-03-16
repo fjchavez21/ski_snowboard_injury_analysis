@@ -1,4 +1,4 @@
-# ski_snowboard_injury_analysis
+# Skiing and Snowboarding Injury Analysis
 Machine learning analysis of skiing and snowboarding injuries using the NEISS dataset (2016–2024).
 
 ## Example Model Outputs
