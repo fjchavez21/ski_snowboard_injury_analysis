@@ -4,7 +4,7 @@ Machine learning analysis of skiing and snowboarding injuries using the NEISS da
 ## Example Model Outputs
 
 ### ROC Curve
-![ROC Curve](figures/roc_curve.png)
+![ROC Curve](ski-snowboard-injury-analysisfigures/roc_curve.png)
 
 ### Random Forest Confusion Matrix
 ![Confusion Matrix](figures/confusion_matrix_rf.png)
